@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm [SIDDHANT.DEV] 👋</h1>
+<h1 align="center">Hey, I'm SIDDHANT.DEV 👋</h1>
 
 <p align="center">
   <b>Vibe Coder  • Future Full Stack Dev</b><br>
