@@ -42,7 +42,7 @@
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([YOUR LINKEDIN URL])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://www.instagram.com/siddhant.dev42])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/siddhant.dev42)
 [![Portfolio](https://img.shields.io/badge/Portfolio-C0151A?style=flat&logo=vercel&logoColor=white)]([YOUR PORTFOLIO URL])
 
 ---
