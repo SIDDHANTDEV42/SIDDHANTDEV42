@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm SIDDHANT.DEV 👋</h1>
 
 <p align="center">
-  <b>Vibe Coder  • Future Full Stack Dev</b><br>
+  <b>  • Future Full Stack Dev</b><br>
   Building real projects with AI • Based in Thane, India 🇮🇳
 </p>
 
