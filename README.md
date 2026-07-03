@@ -20,7 +20,7 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [MHT-CET Mock Test Platform]([YOUR LIVE URL]) | Full mock test site with timer & results | 🔧 V2 in Progress |
+| [MHT-CET Mock Test Platform](https://examprep-showcase.vercel.app/) | Full mock test site with timer & results | 🔧 V2 in Progress |
 
 ---
 
